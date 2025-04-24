@@ -1,5 +1,4 @@
-# My 1v1 Game
-
+# 1V1LOL UNBLOCKED (1v1.lol)
 A simple, hypothetical 1v1 game for educational purposes only. This project is NOT a copy of 1v1.lol and is intended to demonstrate game development concepts.
 
 
