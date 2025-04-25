@@ -31,6 +31,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Running the Project
 
 The game should run directly in your web browser after opening `index.html`.
+PRESS ` and 0 then dismiss the alert to run
 
 
 ## Disclaimer
